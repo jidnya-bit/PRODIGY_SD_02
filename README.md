@@ -46,7 +46,7 @@ This project was built as **Task-02** in Android Studio.
 
 ## 📸 Screenshots / Demo
 
-![Screenshot](https://via.placeholder.com/400x700?text=Guessing+Game+Screenshot)  
+![image alt](https://github.com/jidnya-bit/PRODIGY_SD_03/blob/0952b17a421fbce64c7ec8f41626aba594d636dd/Screenshot%202025-09-30%20130557.png)
 
 
 ```
